@@ -9,13 +9,16 @@ public class Ejercicio1 {
         Scanner scanner = new Scanner(System.in);
         int numero1 = 0;
         int numero2 = 0;
-        int resultado;
+        int resultadoSuma;
+        int resultadoResta;
         System.out.println("Ingrese el primer numero:");
         numero1 = scanner.nextInt();
         System.out.println("Ingrese el segundo numero:");
         numero2 = scanner.nextInt();
-        resultado = numero1 + numero2;
-        System.out.println("Suma de los dos numeros -> " + resultado);
+        resultadoSuma = numero1 + numero2;
+        System.out.println("Suma de los dos numeros -> " + resultadoSuma);
+        resultadoResta = numero1 - numero2;
+        System.out.println("Resta de los dos numeros -> " + resultadoResta);
         scanner.close();
 
     }
