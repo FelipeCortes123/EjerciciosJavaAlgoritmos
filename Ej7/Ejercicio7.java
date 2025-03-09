@@ -1,3 +1,4 @@
+package Ej7;
 /*Crea un programa que solicite el monto de una compra y si el cliente es miembro (valor booleano). 
 Si el monto supera los $100 y el cliente es miembro, aplica un descuento del 10% y muestra el monto final; 
 de lo contrario, muestra el monto original. Utiliza operadores aritméticos, relacionales y lógicos.*/

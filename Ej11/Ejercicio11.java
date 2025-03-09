@@ -1,3 +1,4 @@
+package Ej11;
 /*Solicita tres números que representan longitudes de lados. 
  Verifica si pueden formar un triángulo (la suma de dos lados debe ser mayor que el tercero). 
  Si es posible, clasificarlo como:

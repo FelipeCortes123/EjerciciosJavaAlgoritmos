@@ -1,3 +1,4 @@
+package Ej1;
 /*Crea un programa que solicite dos números al usuario. Utiliza operadores aritméticos para calcular y 
 mostrar la suma y la resta de dichos números.*/
 

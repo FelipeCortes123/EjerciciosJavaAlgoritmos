@@ -1,3 +1,4 @@
+package Ej5;
 /*Elabora un programa que pida al usuario un nombre de usuario y una contraseña. 
 Compara los valores ingresados con credenciales predefinidas utilizando operadores relacionales y lógicos. 
 Si ambos coinciden, muestra "Acceso permitido"; de lo contrario, muestra "Acceso denegado".*/

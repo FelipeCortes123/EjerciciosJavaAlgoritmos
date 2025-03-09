@@ -1,3 +1,4 @@
+package Ej17;
 /*Enunciado: Pide tres números que podrían representar los lados de un triángulo. 
 Utiliza el teorema de Pitágoras para verificar si el triángulo es rectángulo 
 (a² + b² = c², considerando el mayor como hipotenusa).

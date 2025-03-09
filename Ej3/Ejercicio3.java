@@ -1,3 +1,4 @@
+package Ej3;
 /*Diseña una calculadora que reciba dos números y un símbolo de operador (+, -, *, /, %). 
 Según el operador ingresado, realiza la operación correspondiente. 
 Considera la validación para evitar la división por cero.*/

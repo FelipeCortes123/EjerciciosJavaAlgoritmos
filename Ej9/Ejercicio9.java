@@ -1,3 +1,4 @@
+package Ej9;
 /*Desarrolla un programa que solicite un número y determine 
 si es múltiplo de 3 y de 5 simultáneamente. 
 Usa el operador módulo junto con operadores lógicos para evaluar 

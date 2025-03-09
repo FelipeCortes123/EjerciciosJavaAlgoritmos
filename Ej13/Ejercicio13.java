@@ -1,3 +1,4 @@
+package Ej13;
 /* Solicita una temperatura en grados Celsius, conviértela a Fahrenheit usando la 
 fórmula F = (C * 9/5) + 32 y muestra un mensaje indicando si 
 la temperatura es "fría" (menos de 50°F) o "cálida" (50°F o más).

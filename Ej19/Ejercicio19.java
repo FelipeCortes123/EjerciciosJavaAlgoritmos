@@ -1,3 +1,4 @@
+package Ej19;
 import java.util.Scanner;
 
 public class Ejercicio19 {

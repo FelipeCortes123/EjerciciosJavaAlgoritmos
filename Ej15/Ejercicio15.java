@@ -1,3 +1,4 @@
+package Ej15;
 /*Solicita la edad de una persona y clasifícala en:
 
 ○ "Niño" si es menor de 12 años
