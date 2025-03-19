@@ -1,3 +1,4 @@
+package Ej16;
 import java.util.Scanner;
 
 public class ComprobacionDeMultiplos {

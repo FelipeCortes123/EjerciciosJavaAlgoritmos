@@ -17,7 +17,7 @@ public class CalificacionParaBeca {
             System.err.println("¡Lo sentimos!No calificas para la beca");
        }
         scanner.close();
-  }
+    }
     public static boolean CalificacionParaBeca(double calificacion , double asistencia){
         return(calificacion >= 8.5 && asistencia >= 90);
     }
